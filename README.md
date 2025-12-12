@@ -1,4 +1,4 @@
-<div align="center">
+<div+92 318 2309959 ="center">
     <br />
     <p>
         <a href="https://wwebjs.dev"><img src="https://github.com/wwebjs/assets/blob/main/Collection/GitHub/wwebjs.png?raw=true" title="whatsapp-web.js" alt="WWebJS Website" width="500" /></a>
